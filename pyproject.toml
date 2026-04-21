@@ -57,7 +57,7 @@ dependencies = [
     "uvicorn[standard]==0.40.0",
     "python-multipart==0.0.22",
     "yara-x==1.13.0",
-    "python-dotenv==1.2.1",
+    "python-dotenv==1.2.2",
     "httpx==0.28.1",
     # AI-powered file type detection (200+ types, ~99% accuracy)
     "magika==1.0.1",
